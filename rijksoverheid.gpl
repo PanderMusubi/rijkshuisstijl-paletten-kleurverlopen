@@ -1,0 +1,49 @@
+GIMP Palette
+Name: Rijksoverheid
+Columns: 3
+# See https://github.com/PanderMusubi/palette-rijksoverheid
+  0   0   0	 Zwart #000000
+255 255 255	 Wit #ffffff
+  0 123 199  Rijksoverheid Communicatie Hemelblauw #007bc7
+143 202 231  Rijksoverheid Communicatie Lichtblauw #8fcae7
+118 210 182  Rijksoverheid Communicatie Mintgroen #76d2b6
+ 57 135  12  Rijksoverheid Communicatie Groen #39870c
+ 62 100  49  Rijksoverheid Communicatie Mosgroen #777c00
+ 39  89  55  Rijksoverheid Communicatie Donkergroen #275937
+ 66  20  95  Rijksoverheid Communicatie Paars #42145f
+169   0  97  Rijksoverheid Communicatie Violet #a90061
+202   0  93  Rijksoverheid Communicatie Robijnrood #ca005d
+240 146 205  Rijksoverheid Communicatie Roze #f092cd
+249 225  30  Rijksoverheid Communicatie Geel #f9e11e
+255 182  18  Rijksoverheid Communicatie Donkergeel #ffb612
+148 113  10  Rijksoverheid Communicatie Bruin #94710a
+103  51  39  Rijksoverheid Communicatie Donkerbruin #673327
+213  43  30  Rijksoverheid Communicatie Rood #d52b1e
+225 112   0  Rijksoverheid Communicatie Oranje #e17000
+ 18  53  82	 Rijksoverheid Logo Blauw 1 #123552
+ 21  66 115	 Rijksoverheid Logo Blauw 2 #154273
+  1 104 155	 Rijksoverheid Web achtergrond kop #01689b
+204 224 241	 Rijksoverheid Web achtergrond selectie #cce0f1
+217 217 217	 Rijksoverheid Web rand kader #d9d9d9
+242 242 242	 Rijksoverheid Web kop kader #f2f2f2
+240 225 168	 Rijksoverheid Web rand aandachtskader #f0e1a8
+254 241 188	 Rijksoverheid Web kop aandachtskader #fef1bc
+254 248 222	 Rijksoverheid Web achtergrond aandachtskader #fef8de
+255  79  12	 Rijksoverheid Web icoon #ff4f0c
+235   0 140	 NORA nadruk #eb008c
+122  73  48	 NORA kop #7a4930
+ 82  75  55	 NORA ondertitel #524b37
+179 165 161	 NORA bijschrift #b3a5a1
+216 207 203	 NORA achtergrond #d8cfcb
+255 102   0	 NORA-beeldtaal Werkprocessen #ff6600
+255 189 138	 NORA-beeldtaal Werkprocessen onderste laag #ffbd8a
+255 255 102	 NORA-beeldtaal Servicebus #ffff66
+255 255 189	 NORA-beeldtaal Servicebus onderste laag #ffffbd
+153 204 255	 NORA-beeldtaal Kanalen #99ccff
+214 234 255	 NORA-beeldtaal Kanalen onderste laag #d6eaff
+102 102 102	 NORA-beeldtaal Data-opslag #666666
+189 189 189	 NORA-beeldtaal Data-opslag onderste laag #bdbdbd
+ 57  49 110	 ICTU achtergrond selectie #39316e
+ 75 159 213	 ICTU vulling #4b9fd5
+152  47 124	 ICTU kop #982f7c
+227 232 235	 ICTU achtergrond kop #e3e3eb
