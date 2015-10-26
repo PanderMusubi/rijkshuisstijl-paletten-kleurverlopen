@@ -1,8 +1,7 @@
-rijkshuisstijl-paletten-kleurverlopen
-=====================================
+# rijkshuisstijl-paletten-kleurverlopen #
 
-Nederlands
-----------
+
+## Nederlands ##
 
 Dit project biedt paletten (kleurenschema) en [kleurverlopen](https://nl.wikipedia.org/wiki/Kleurengradi%C3%ABnt) (kleurengradiënten) voor vrije software en openbronsoftware ([FOSS](https://nl.wikipedia.org/wiki/Vrije_software_en_opensourcesoftware)) zoals [Inkscape](https://inkscape.org/nl), [GIMP](http://gimp.org) en [LibreOffice](https://nl.libreoffice.org) voor de [rijkshuisstijl](http://rijkshuisstijl.nl) van de Nederlandse overheid.
 
@@ -17,8 +16,7 @@ Verder worden er hier paletten aangeboden voor Adobe Swatch Exchange in een ASE-
 De Nederlande overheid is eigenaar van de rijkshuisstijl en heeft er auteursrecht op. Alleen rijksoverheidsorganisaties mogen deze huisstijl voeren. Zie http://rijkshuisstijl.nl voor meer informatie.
 
 
-English
--------
+## English ##
 
 This project offers [palettes](https://en.wikipedia.org/wiki/Palette_%28computing%29) and [gradients](https://en.wikipedia.org/wiki/Color_gradient) for free and open software ([FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) such as for [Inkscape](https://inkscape.org/en), [GIMP](http://gimp.org) and [LibreOffice](https://libreoffice.org) for the Dutch government's style guide called [rijkshuisstijl](http://rijkshuisstijl.nl).
 
@@ -33,25 +31,29 @@ Also palettes for Adobe Swatch Exchange in an ASE file and for Alias/Wavefront M
 The Dutch government is owner of the rijkshuisstijl and has copyright on it. Only government organisations are allowed to use this style. The names of files, colors and gradients are all in Dutch. See http://rijkshuisstijl.nl for more information.
 
 
-Screenshots
------------
+## Screenshots##
 
-LibreOffice palette
+
+### LibreOffice palette ###
 
 ![LibreOffice palette](screenshots/libreoffice-palette.png?raw=true "LibreOffice palette")
 
-LibreOffice gradients
+
+### LibreOffice gradients ###
 
 ![LibreOffice gradients](screenshots/libreoffice-gradients.png?raw=true "LibreOffice gradients")
 
-Inkscape palette and gradients
+
+### Inkscape palette and gradients ###
 
 ![Inkscape palette and gradients](screenshots/inkscape-palette-and-gradients.png?raw=true "Inkscape palette and gradients")
 
-GIMP palette
+
+### GIMP palette ###
 
 ![GIMP palette](screenshots/gimp-palette.png?raw=true "GIMP palette")
 
-GIMP gradients
+
+### GIMP gradients ###
 
 ![GIMP gradients](screenshots/gimp-gradients.png?raw=true "GIMP gradients")
