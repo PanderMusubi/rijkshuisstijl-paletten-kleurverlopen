@@ -1,0 +1,61 @@
+Wit #ffffff
+RO Achtergrond #f3f3f3
+RO Grijstint 1 #e6e6e6
+RO Grijstint 2 #cccccc
+RO Grijstint 3 #b4b4b4
+RO Grijstint 4 #999999
+RO Links Visited #696969
+RO Achtergrond Links #535353
+Zwart #000000
+RO Tekst Links #154273
+RO Violet #a90061
+RO Violet Tint1 #e5b2cf
+RO Violet Tint2 #f2d9e7
+RO Roze #f092cd
+RO Roze Tint1 #fadef0
+RO Roze Tint2 #fdeff8
+RO Rood #d52b1e
+RO Rood Tint1 #f2bfbb
+RO Rood Tint2 #f9dfdd
+RO Robijnrood #ca005d
+RO Robijnrood Tint1 #efb2ce
+RO Robijnrood Tint2 #f7d9e7
+RO Paars #42145f
+RO Paars Tint1 #c6b8cf
+RO Paars Tint2 #e3dce7
+RO Oranje #e17000
+RO Oranje Tint1 #f6d4b2
+RO Oranje Tint2 #fbead9
+RO Mosgroen #777c00
+RO Mosgroen Tint1 #d6d7b2
+RO Mosgroen Tint2 #ebebd9
+RO Mintgroen #76d2b6
+RO Mintgroen Tint1 #d6f1e9
+RO Mintgroen Tint2 #ebf8f4
+RO Lichtblauw #8fcae7
+RO Lichtblauw Tint1 #ddeff8
+RO Lichtblauw Tint2 #eef7fb
+RO Hemelblauw #007bc7
+RO Hemelblauw Tint1 #b2d7ee
+RO Hemelblauw Tint2 #d9ebf7
+RO Groen #39870c
+RO Groen Tint1 #c3dbb6
+RO Groen Tint2 #e1eddb
+RO Geel #f9e11e
+RO Geel Tint1 #fdf6bb
+RO Geel Tint2 #fefbdd
+RO Donkergroen #275937
+RO Dondergroen Tint1 #becdc3
+RO Donkergroen Tint2 #dfe6e1
+RO Donkergeel #ffb612
+RO Donkergeel Tint1 #ffe9b7
+RO Donkergeel Tint2 #fff4dc
+RO Donkerbruin #673327
+RO Donkerbruin Tint1 #d1c1be
+RO Donkerbruin Tint2 #e8e1df
+RO Bruin #94710a
+RO Bruin Tint1 #dfd4b5
+RO Bruin Tint2 #efeada
+RO Donkerblauw #01689b
+RO Donkerblauw Tint1 #cce0f1
+RO Donkerblauw Tint2 #e5f0f9

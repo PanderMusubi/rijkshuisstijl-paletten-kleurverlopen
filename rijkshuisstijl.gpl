@@ -1,0 +1,65 @@
+GIMP Palette
+Name: Rijkshuisstijl
+Columns: 3
+# See https://github.com/PanderMusubi/rijkshuisstijl-palleten-kleurverlopen
+255 255 255  Wit #ffffff
+243 243 243  RO Achtergrond #f3f3f3
+230 230 230  RO Grijstint 1 #e6e6e6
+204 204 204  RO Grijstint 2 #cccccc
+180 180 180  RO Grijstint 3 #b4b4b4
+153 153 153  RO Grijstint 4 #999999
+105 105 105  RO Links Visited #696969
+ 83  83  83  RO Achtergrond Links #535353
+  0   0   0  Zwart #000000
+ 21  66 115  RO Tekst Links #154273
+169   0  97  RO Violet #a90061
+229 178 207  RO Violet Tint1 #e5b2cf
+242 217 231  RO Violet Tint2 #f2d9e7
+240 146 205  RO Roze #f092cd
+250 222 240  RO Roze Tint1 #fadef0
+253 239 248  RO Roze Tint2 #fdeff8
+213  43  30  RO Rood #d52b1e
+242 191 187  RO Rood Tint1 #f2bfbb
+249 223 221  RO Rood Tint2 #f9dfdd
+202   0  93  RO Robijnrood #ca005d
+239 178 206  RO Robijnrood Tint1 #efb2ce
+247 217 231  RO Robijnrood Tint2 #f7d9e7
+ 66  20  95  RO Paars #42145f
+198 184 207  RO Paars Tint1 #c6b8cf
+227 220 231  RO Paars Tint2 #e3dce7
+225 112   0  RO Oranje #e17000
+246 212 178  RO Oranje Tint1 #f6d4b2
+251 234 217  RO Oranje Tint2 #fbead9
+119 124   0  RO Mosgroen #777c00
+214 215 178  RO Mosgroen Tint1 #d6d7b2
+235 235 217  RO Mosgroen Tint2 #ebebd9
+118 210 182  RO Mintgroen #76d2b6
+214 241 233  RO Mintgroen Tint1 #d6f1e9
+235 248 244  RO Mintgroen Tint2 #ebf8f4
+143 202 231  RO Lichtblauw #8fcae7
+221 239 248  RO Lichtblauw Tint1 #ddeff8
+238 247 251  RO Lichtblauw Tint2 #eef7fb
+  0 123 199  RO Hemelblauw #007bc7
+178 215 238  RO Hemelblauw Tint1 #b2d7ee
+217 235 247  RO Hemelblauw Tint2 #d9ebf7
+ 57 135  12  RO Groen #39870c
+195 219 182  RO Groen Tint1 #c3dbb6
+225 237 219  RO Groen Tint2 #e1eddb
+249 225  30  RO Geel #f9e11e
+253 246 187  RO Geel Tint1 #fdf6bb
+254 251 221  RO Geel Tint2 #fefbdd
+ 39  89  55  RO Donkergroen #275937
+190 205 195  RO Dondergroen Tint1 #becdc3
+223 230 225  RO Donkergroen Tint2 #dfe6e1
+255 182  18  RO Donkergeel #ffb612
+255 233 183  RO Donkergeel Tint1 #ffe9b7
+255 244 220  RO Donkergeel Tint2 #fff4dc
+103  51  39  RO Donkerbruin #673327
+209 193 190  RO Donkerbruin Tint1 #d1c1be
+232 225 223  RO Donkerbruin Tint2 #e8e1df
+148 113  10  RO Bruin #94710a
+223 212 181  RO Bruin Tint1 #dfd4b5
+239 234 218  RO Bruin Tint2 #efeada
+  1 104 155  RO Donkerblauw #01689b
+204 224 241  RO Donkerblauw Tint1 #cce0f1
+229 240 249  RO Donkerblauw Tint2 #e5f0f9

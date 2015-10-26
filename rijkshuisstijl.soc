@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ooo:color-table xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" xmlns:ooo="http://openoffice.org/2004/office">
+<!-- See https://github.com/PanderMusubi/rijkshuisstijl-palleten-kleurverlopen -->
+<draw:color draw:name="Wit #ffffff" draw:color="#ffffff"/>
+<draw:color draw:name="RO Achtergrond #f3f3f3" draw:color="#f3f3f3"/>
+<draw:color draw:name="RO Grijstint 1 #e6e6e6" draw:color="#e6e6e6"/>
+<draw:color draw:name="RO Grijstint 2 #cccccc" draw:color="#cccccc"/>
+<draw:color draw:name="RO Grijstint 3 #b4b4b4" draw:color="#b4b4b4"/>
+<draw:color draw:name="RO Grijstint 4 #999999" draw:color="#999999"/>
+<draw:color draw:name="RO Links Visited #696969" draw:color="#696969"/>
+<draw:color draw:name="RO Achtergrond Links #535353" draw:color="#535353"/>
+<draw:color draw:name="Zwart #000000" draw:color="#000000"/>
+<draw:color draw:name="RO Tekst Links #154273" draw:color="#154273"/>
+<draw:color draw:name="RO Violet #a90061" draw:color="#a90061"/>
+<draw:color draw:name="RO Violet Tint1 #e5b2cf" draw:color="#e5b2cf"/>
+<draw:color draw:name="RO Violet Tint2 #f2d9e7" draw:color="#f2d9e7"/>
+<draw:color draw:name="RO Roze #f092cd" draw:color="#f092cd"/>
+<draw:color draw:name="RO Roze Tint1 #fadef0" draw:color="#fadef0"/>
+<draw:color draw:name="RO Roze Tint2 #fdeff8" draw:color="#fdeff8"/>
+<draw:color draw:name="RO Rood #d52b1e" draw:color="#d52b1e"/>
+<draw:color draw:name="RO Rood Tint1 #f2bfbb" draw:color="#f2bfbb"/>
+<draw:color draw:name="RO Rood Tint2 #f9dfdd" draw:color="#f9dfdd"/>
+<draw:color draw:name="RO Robijnrood #ca005d" draw:color="#ca005d"/>
+<draw:color draw:name="RO Robijnrood Tint1 #efb2ce" draw:color="#efb2ce"/>
+<draw:color draw:name="RO Robijnrood Tint2 #f7d9e7" draw:color="#f7d9e7"/>
+<draw:color draw:name="RO Paars #42145f" draw:color="#42145f"/>
+<draw:color draw:name="RO Paars Tint1 #c6b8cf" draw:color="#c6b8cf"/>
+<draw:color draw:name="RO Paars Tint2 #e3dce7" draw:color="#e3dce7"/>
+<draw:color draw:name="RO Oranje #e17000" draw:color="#e17000"/>
+<draw:color draw:name="RO Oranje Tint1 #f6d4b2" draw:color="#f6d4b2"/>
+<draw:color draw:name="RO Oranje Tint2 #fbead9" draw:color="#fbead9"/>
+<draw:color draw:name="RO Mosgroen #777c00" draw:color="#777c00"/>
+<draw:color draw:name="RO Mosgroen Tint1 #d6d7b2" draw:color="#d6d7b2"/>
+<draw:color draw:name="RO Mosgroen Tint2 #ebebd9" draw:color="#ebebd9"/>
+<draw:color draw:name="RO Mintgroen #76d2b6" draw:color="#76d2b6"/>
+<draw:color draw:name="RO Mintgroen Tint1 #d6f1e9" draw:color="#d6f1e9"/>
+<draw:color draw:name="RO Mintgroen Tint2 #ebf8f4" draw:color="#ebf8f4"/>
+<draw:color draw:name="RO Lichtblauw #8fcae7" draw:color="#8fcae7"/>
+<draw:color draw:name="RO Lichtblauw Tint1 #ddeff8" draw:color="#ddeff8"/>
+<draw:color draw:name="RO Lichtblauw Tint2 #eef7fb" draw:color="#eef7fb"/>
+<draw:color draw:name="RO Hemelblauw #007bc7" draw:color="#007bc7"/>
+<draw:color draw:name="RO Hemelblauw Tint1 #b2d7ee" draw:color="#b2d7ee"/>
+<draw:color draw:name="RO Hemelblauw Tint2 #d9ebf7" draw:color="#d9ebf7"/>
+<draw:color draw:name="RO Groen #39870c" draw:color="#39870c"/>
+<draw:color draw:name="RO Groen Tint1 #c3dbb6" draw:color="#c3dbb6"/>
+<draw:color draw:name="RO Groen Tint2 #e1eddb" draw:color="#e1eddb"/>
+<draw:color draw:name="RO Geel #f9e11e" draw:color="#f9e11e"/>
+<draw:color draw:name="RO Geel Tint1 #fdf6bb" draw:color="#fdf6bb"/>
+<draw:color draw:name="RO Geel Tint2 #fefbdd" draw:color="#fefbdd"/>
+<draw:color draw:name="RO Donkergroen #275937" draw:color="#275937"/>
+<draw:color draw:name="RO Dondergroen Tint1 #becdc3" draw:color="#becdc3"/>
+<draw:color draw:name="RO Donkergroen Tint2 #dfe6e1" draw:color="#dfe6e1"/>
+<draw:color draw:name="RO Donkergeel #ffb612" draw:color="#ffb612"/>
+<draw:color draw:name="RO Donkergeel Tint1 #ffe9b7" draw:color="#ffe9b7"/>
+<draw:color draw:name="RO Donkergeel Tint2 #fff4dc" draw:color="#fff4dc"/>
+<draw:color draw:name="RO Donkerbruin #673327" draw:color="#673327"/>
+<draw:color draw:name="RO Donkerbruin Tint1 #d1c1be" draw:color="#d1c1be"/>
+<draw:color draw:name="RO Donkerbruin Tint2 #e8e1df" draw:color="#e8e1df"/>
+<draw:color draw:name="RO Bruin #94710a" draw:color="#94710a"/>
+<draw:color draw:name="RO Bruin Tint1 #dfd4b5" draw:color="#dfd4b5"/>
+<draw:color draw:name="RO Bruin Tint2 #efeada" draw:color="#efeada"/>
+<draw:color draw:name="RO Donkerblauw #01689b" draw:color="#01689b"/>
+<draw:color draw:name="RO Donkerblauw Tint1 #cce0f1" draw:color="#cce0f1"/>
+<draw:color draw:name="RO Donkerblauw Tint2 #e5f0f9" draw:color="#e5f0f9"/>
+</ooo:color-table>
