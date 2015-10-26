@@ -14,7 +14,7 @@ Voor LibreOffice, kopieer het palet rijkshuisstijl.soc naar de map ~/.config/lib
 
 Verder worden er hier paletten aangeboden voor Adobe Swatch Exchange in een ASE-bestand en voor Alias/Wavefront Material in een MTL-bestand.
 
-Zie http://rijkshuisstijl.nl voor meer informatie.
+De Nederlande overheid is eigenaar van de rijkshuisstijl en heeft er auteursrecht op. Alleen rijksoverheidsorganisaties mogen deze huisstijl voeren. Zie http://rijkshuisstijl.nl voor meer informatie.
 
 
 English
@@ -30,4 +30,18 @@ For LibreOffice, copy the palette rijkshuisstijl.soc to directory ~/.config/libr
 
 Also palettes for Adobe Swatch Exchange in an ASE file and for Alias/Wavefront Material in an MTL file are being offered here.
 
-The names of files, colors and gradients are all in Dutch. See http://rijkshuisstijl.nl for more information.
+The Dutch government is owner of the rijkshuisstijl and has copyright on it. Only government organisations are allowed to use this style. The names of files, colors and gradients are all in Dutch. See http://rijkshuisstijl.nl for more information.
+
+
+Screenshots
+-----------
+
+![LibreOffice palette](screenshots/libreoffice-palette.png?raw=true "LibreOffice palette")
+
+![LibreOffice gradients](screenshots/libreoffice-gradients.png?raw=true "LibreOffice gradients")
+
+![Inkscape palette and gradients](screenshots/inkscape-palette-and-gradients.png?raw=true "Inkscape palette and gradients")
+
+![GIMP palette](screenshots/gimp-palette.png?raw=true "GIMP palette")
+
+![GIMP gradients](screenshots/gimp-gradients.png?raw=true "GIMP gradients")
