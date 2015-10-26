@@ -36,12 +36,22 @@ The Dutch government is owner of the rijkshuisstijl and has copyright on it. Onl
 Screenshots
 -----------
 
+LibreOffice palette
+
 ![LibreOffice palette](screenshots/libreoffice-palette.png?raw=true "LibreOffice palette")
+
+LibreOffice gradients
 
 ![LibreOffice gradients](screenshots/libreoffice-gradients.png?raw=true "LibreOffice gradients")
 
+Inkscape palette and gradients
+
 ![Inkscape palette and gradients](screenshots/inkscape-palette-and-gradients.png?raw=true "Inkscape palette and gradients")
 
+GIMP palette
+
 ![GIMP palette](screenshots/gimp-palette.png?raw=true "GIMP palette")
+
+GIMP gradients
 
 ![GIMP gradients](screenshots/gimp-gradients.png?raw=true "GIMP gradients")
