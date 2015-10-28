@@ -2,13 +2,13 @@
 <ooo:color-table xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" xmlns:ooo="http://openoffice.org/2004/office">
 <!-- See https://github.com/PanderMusubi/rijkshuisstijl-palleten-kleurverlopen -->
 <draw:color draw:name="Wit #ffffff" draw:color="#ffffff"/>
-<draw:color draw:name="RO Achtergrond #f3f3f3" draw:color="#f3f3f3"/>
-<draw:color draw:name="RO Grijstint 1 #e6e6e6" draw:color="#e6e6e6"/>
-<draw:color draw:name="RO Grijstint 2 #cccccc" draw:color="#cccccc"/>
-<draw:color draw:name="RO Grijstint 3 #b4b4b4" draw:color="#b4b4b4"/>
-<draw:color draw:name="RO Grijstint 4 #999999" draw:color="#999999"/>
-<draw:color draw:name="RO Links Visited #696969" draw:color="#696969"/>
-<draw:color draw:name="RO Achtergrond Links #535353" draw:color="#535353"/>
+<draw:color draw:name="RO Grijs 1 #f3f3f3" draw:color="#f3f3f3"/>
+<draw:color draw:name="RO Grijs 2 #e6e6e6" draw:color="#e6e6e6"/>
+<draw:color draw:name="RO Grijs 3 #cccccc" draw:color="#cccccc"/>
+<draw:color draw:name="RO Grijs 4 #b4b4b4" draw:color="#b4b4b4"/>
+<draw:color draw:name="RO Grijs 5 #999999" draw:color="#999999"/>
+<draw:color draw:name="RO Grijs 6 #696969" draw:color="#696969"/>
+<draw:color draw:name="RO Grijs 7 #535353" draw:color="#535353"/>
 <draw:color draw:name="Zwart #000000" draw:color="#000000"/>
 <draw:color draw:name="RO Tekst Links #154273" draw:color="#154273"/>
 <draw:color draw:name="RO Violet #a90061" draw:color="#a90061"/>

@@ -3,13 +3,13 @@ Name: Rijkshuisstijl
 Columns: 3
 # See https://github.com/PanderMusubi/rijkshuisstijl-palleten-kleurverlopen
 255 255 255  Wit #ffffff
-243 243 243  RO Achtergrond #f3f3f3
-230 230 230  RO Grijstint 1 #e6e6e6
-204 204 204  RO Grijstint 2 #cccccc
-180 180 180  RO Grijstint 3 #b4b4b4
-153 153 153  RO Grijstint 4 #999999
-105 105 105  RO Links Visited #696969
- 83  83  83  RO Achtergrond Links #535353
+243 243 243  RO Grijs 1 #f3f3f3
+230 230 230  RO Grijs 2 #e6e6e6
+204 204 204  RO Grijs 3 #cccccc
+180 180 180  RO Grijs 4 #b4b4b4
+153 153 153  RO Grijs 5 #999999
+105 105 105  RO Grijs 6 #696969
+ 83  83  83  RO Grijs 7 #535353
   0   0   0  Zwart #000000
  21  66 115  RO Tekst Links #154273
 169   0  97  RO Violet #a90061

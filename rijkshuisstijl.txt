@@ -1,11 +1,11 @@
 Wit #ffffff
-RO Achtergrond #f3f3f3
-RO Grijstint 1 #e6e6e6
-RO Grijstint 2 #cccccc
-RO Grijstint 3 #b4b4b4
-RO Grijstint 4 #999999
-RO Links Visited #696969
-RO Achtergrond Links #535353
+RO Grijs 1 #f3f3f3
+RO Grijs 2 #e6e6e6
+RO Grijs 3 #cccccc
+RO Grijs 4 #b4b4b4
+RO Grijs 5 #999999
+RO Grijs 6 #696969
+RO Grijs 7 #535353
 Zwart #000000
 RO Tekst Links #154273
 RO Violet #a90061
