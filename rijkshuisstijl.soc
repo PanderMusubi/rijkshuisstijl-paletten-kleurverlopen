@@ -10,7 +10,8 @@
 <draw:color draw:name="RO Grijs 6 #696969" draw:color="#696969"/>
 <draw:color draw:name="RO Grijs 7 #535353" draw:color="#535353"/>
 <draw:color draw:name="Zwart #000000" draw:color="#000000"/>
-<draw:color draw:name="RO Tekst Links #154273" draw:color="#154273"/>
+<draw:color draw:name="RO Logo Blauw 1 #123552" draw:color="#123552"/>
+<draw:color draw:name="RO Logo Blauw 2 #154273" draw:color="#154273"/>
 <draw:color draw:name="RO Violet #a90061" draw:color="#a90061"/>
 <draw:color draw:name="RO Violet Tint1 #e5b2cf" draw:color="#e5b2cf"/>
 <draw:color draw:name="RO Violet Tint2 #f2d9e7" draw:color="#f2d9e7"/>
