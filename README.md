@@ -1,5 +1,7 @@
 # rijkshuisstijl-paletten-kleurverlopen #
 
+_For English, see below_
+
 
 ## Nederlands ##
 
